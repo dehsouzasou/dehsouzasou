@@ -10,6 +10,9 @@ Antes da TI, trabalhei na área da saúde, a maior parte como técnica de enferm
 - **Active Directory**, **SailPoint**, **Ivanti** e gestão de dispositivos móveis (**MDM**)
 - Homologação de sistemas e migração de dados
 
+### 🚀 Projeto em destaque
+**[SETAG](https://github.com/dehsouzasou/setag)**: app em Google Apps Script que gera termos de guarda e devolução de equipamentos de TI em PDF, com importação de termos antigos (PDF/Word) e assinatura na tela. Criado por iniciativa própria para automatizar uma rotina da equipe de suporte.
+
 ### 💻 Tecnologias
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
